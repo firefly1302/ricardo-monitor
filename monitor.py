@@ -11,9 +11,9 @@ import re
 import sys
 from pathlib import Path
 
-import cloudscraper
 import requests
 from bs4 import BeautifulSoup
+from curl_cffi import requests as cffi_requests
 
 # --- Configuration ---
 SELLER_NAME = os.environ.get("RICARDO_SELLER", "Danash")
@@ -89,8 +89,7 @@ def parse_listing_texts(texts: list[str]) -> dict:
 def fetch_listings() -> dict:
     """Fetch the seller's shop page and extract all listings."""
     print(f"[FETCH] Fetching {SHOP_URL}")
-    scraper = cloudscraper.create_scraper()
-    resp = scraper.get(SHOP_URL, timeout=30)
+    resp = cffi_requests.get(SHOP_URL, impersonate="chrome", timeout=30)
     print(f"[FETCH] Status: {resp.status_code}, Length: {len(resp.text)} bytes")
 
     if resp.status_code != 200:
