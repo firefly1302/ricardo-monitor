@@ -24,17 +24,17 @@
       "buy_now": "20.00",
       "url": "https://www.ricardo.ch/de/a/gudrun-sjoeden-fleece-sweater-trees-pattern-size-medium-1310661836/"
     },
-    "1311040374": {
-      "title": "Vintage Avirex Leather Bomber Jacket, Glenn Miller Tour L",
-      "price": "130.00",
-      "buy_now": "220.00",
-      "url": "https://www.ricardo.ch/de/a/vintage-avirex-leather-bomber-jacket-glenn-miller-tour-l-1311040374/"
-    },
     "1310661840": {
       "title": "Gudrun Sjoden Grey Wool Tunic Sweater with Roll Neck - S",
       "price": "17.00",
       "buy_now": "33.00",
       "url": "https://www.ricardo.ch/de/a/gudrun-sjoden-grey-wool-tunic-sweater-with-roll-neck-s-1310661840/"
+    },
+    "1311040374": {
+      "title": "Vintage Avirex Leather Bomber Jacket, Glenn Miller Tour L",
+      "price": "130.00",
+      "buy_now": "220.00",
+      "url": "https://www.ricardo.ch/de/a/vintage-avirex-leather-bomber-jacket-glenn-miller-tour-l-1311040374/"
     },
     "1310951556": {
       "title": "FTC Cashmere Blend Cardigan, Size S, Grey",
@@ -78,12 +78,6 @@
       "buy_now": "10.00",
       "url": "https://www.ricardo.ch/de/a/gran-sasso-100-virgin-wool-cardigan-xs-1310951952/"
     },
-    "1310194398": {
-      "title": "Chaps Ralph Lauren Polo Shirt, Mens, Size M Vintage",
-      "price": "7.00",
-      "buy_now": "15.00",
-      "url": "https://www.ricardo.ch/de/a/chaps-ralph-lauren-polo-shirt-mens-size-m-vintage-1310194398/"
-    },
     "1310950652": {
       "title": "Adagio Navy Cashmere Blend Jumper, Size 42,",
       "price": "10.00",
@@ -95,6 +89,12 @@
       "price": "10.00",
       "buy_now": "16.00",
       "url": "https://www.ricardo.ch/de/a/123-cashmere-blend-turtleneck-sweater-size-42-44-eu-1310951560/"
+    },
+    "1310194398": {
+      "title": "Chaps Ralph Lauren Polo Shirt, Mens, Size M Vintage",
+      "price": "7.00",
+      "buy_now": "15.00",
+      "url": "https://www.ricardo.ch/de/a/chaps-ralph-lauren-polo-shirt-mens-size-m-vintage-1310194398/"
     }
   }
 }
