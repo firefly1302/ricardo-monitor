@@ -1,11 +1,5 @@
 {
   "listings": {
-    "1311125192": {
-      "title": "Vintage Lacoste Cardigan - Black/Grey Pattern - Size 4",
-      "price": "17.00",
-      "buy_now": "32.00",
-      "url": "https://www.ricardo.ch/de/a/vintage-lacoste-cardigan-black-grey-pattern-size-4-1311125192/"
-    },
     "1311125208": {
       "title": "Uniqlo Ultra Light Down Jacket, Black, Size S - Winter!",
       "price": "11.00",
@@ -44,7 +38,7 @@
     },
     "1311125198": {
       "title": "Burberry Scarf - Classic Check Wool Scarf - Winter Warm",
-      "price": "24.00",
+      "price": "28.00",
       "buy_now": "60.00",
       "url": "https://www.ricardo.ch/de/a/burberry-scarf-classic-check-wool-scarf-winter-warm-1311125198/"
     },
@@ -62,7 +56,7 @@
     },
     "1311124990": {
       "title": "Classic Burberry Scarf - Original - Lambswool",
-      "price": "16.00",
+      "price": "17.00",
       "buy_now": "50.00",
       "url": "https://www.ricardo.ch/de/a/classic-burberry-scarf-original-lambswool-1311124990/"
     },
@@ -95,6 +89,12 @@
       "price": "10.00",
       "buy_now": "15.00",
       "url": "https://www.ricardo.ch/de/a/vintage-amazonia-biodiversity-graphic-t-shirt-size-xl-1311214744/"
+    },
+    "1311124970": {
+      "title": "Vintage CS Ska Credit Suisse Bag",
+      "price": "10.00",
+      "buy_now": "25.00",
+      "url": "https://www.ricardo.ch/de/a/vintage-cs-ska-credit-suisse-bag-1311124970/"
     }
   }
 }
