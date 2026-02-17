@@ -2,7 +2,7 @@
   "listings": {
     "1311125192": {
       "title": "Vintage Lacoste Cardigan - Black/Grey Pattern - Size 4",
-      "price": "16.00",
+      "price": "17.00",
       "buy_now": "32.00",
       "url": "https://www.ricardo.ch/de/a/vintage-lacoste-cardigan-black-grey-pattern-size-4-1311125192/"
     },
@@ -60,12 +60,6 @@
       "buy_now": "13.00",
       "url": "https://www.ricardo.ch/de/a/maje-striped-sweater-size-1-1309209394/"
     },
-    "1311125500": {
-      "title": "Barbour International Jacket - Size 34 - Great deal!",
-      "price": "19.00",
-      "buy_now": "33.00",
-      "url": "https://www.ricardo.ch/de/a/barbour-international-jacket-size-34-great-deal!-1311125500/"
-    },
     "1311124990": {
       "title": "Classic Burberry Scarf - Original - Lambswool",
       "price": "16.00",
@@ -95,6 +89,12 @@
       "price": "12.00",
       "buy_now": "20.00",
       "url": "https://www.ricardo.ch/de/a/timberland-tall-lace-up-boots-size-65m-great-look!-1311124962/"
+    },
+    "1311214744": {
+      "title": "Vintage Amazonia Biodiversity Graphic T-Shirt Size XL",
+      "price": "10.00",
+      "buy_now": "15.00",
+      "url": "https://www.ricardo.ch/de/a/vintage-amazonia-biodiversity-graphic-t-shirt-size-xl-1311214744/"
     }
   }
 }
