@@ -6,17 +6,17 @@
       "buy_now": "10.00",
       "url": "https://www.ricardo.ch/de/a/nile-cardigan-xs-wool-blend-1311214132/"
     },
-    "1310194430": {
-      "title": "Ralph Lauren Polo Shirt, Size L, Slim Fit, Striped, Blue",
-      "price": "7.00",
-      "buy_now": "12.00",
-      "url": "https://www.ricardo.ch/de/a/ralph-lauren-polo-shirt-size-l-slim-fit-striped-blue-1310194430/"
-    },
     "1311582864": {
       "title": "Annette Görtz Linen Blend Dress, Size 36, Spring Style!",
       "price": "11.00",
       "buy_now": "20.00",
       "url": "https://www.ricardo.ch/de/a/annette-goertz-linen-blend-dress-size-36-spring-style!-1311582864/"
+    },
+    "1310194430": {
+      "title": "Ralph Lauren Polo Shirt, Size L, Slim Fit, Striped, Blue",
+      "price": "7.00",
+      "buy_now": "12.00",
+      "url": "https://www.ricardo.ch/de/a/ralph-lauren-polo-shirt-size-l-slim-fit-striped-blue-1310194430/"
     },
     "1310004052": {
       "title": "René Lezard Black Wool Coat, Size 44, Winter Essential!",
@@ -36,12 +36,6 @@
       "buy_now": "15.00",
       "url": "https://www.ricardo.ch/de/a/king-louie-retro-print-dress-size-s-autumn-fashion!-1311667158/"
     },
-    "1309293526": {
-      "title": "Reima TEC Winter Kids Overall Size 74, TOP Condition!",
-      "price": "6.00",
-      "buy_now": "16.00",
-      "url": "https://www.ricardo.ch/de/a/reima-tec-winter-kids-overall-size-74-top-condition!-1309293526/"
-    },
     "1311582868": {
       "title": "Vintage Brown Suede Coat with Faux Fur Collar M/L",
       "price": "11.00",
@@ -60,11 +54,23 @@
       "buy_now": "16.00",
       "url": "https://www.ricardo.ch/de/a/massimo-dutti-wool-blend-knit-jumper-size-s-1311297894/"
     },
+    "1311667180": {
+      "title": "Gerard Darel Wool Coat, Size 38, Stylish Belted Winter Coat!",
+      "price": "15.00",
+      "buy_now": "40.00",
+      "url": "https://www.ricardo.ch/de/a/gerard-darel-wool-coat-size-38-stylish-belted-winter-coat!-1311667180/"
+    },
     "1311298044": {
       "title": "Hartford Alpaca Blend Sweater - Women's Size 3 - Cozy!",
       "price": "11.00",
       "buy_now": "16.00",
       "url": "https://www.ricardo.ch/de/a/hartford-alpaca-blend-sweater-women's-size-3-cozy!-1311298044/"
+    },
+    "1309293526": {
+      "title": "Reima TEC Winter Kids Overall Size 74, TOP Condition!",
+      "price": "6.00",
+      "buy_now": "16.00",
+      "url": "https://www.ricardo.ch/de/a/reima-tec-winter-kids-overall-size-74-top-condition!-1309293526/"
     },
     "1311297924": {
       "title": "Cappellini Wool/Cashmere Dress, Size 44, Fall Essential",
@@ -77,12 +83,6 @@
       "price": "11.00",
       "buy_now": "16.00",
       "url": "https://www.ricardo.ch/de/a/123-cashmere-blend-turtleneck-sweater-size-42-44-eu-1310951560/"
-    },
-    "1311667180": {
-      "title": "Gerard Darel Wool Coat, Size 38, Stylish Belted Winter Coat!",
-      "price": "15.00",
-      "buy_now": "40.00",
-      "url": "https://www.ricardo.ch/de/a/gerard-darel-wool-coat-size-38-stylish-belted-winter-coat!-1311667180/"
     },
     "1311582834": {
       "title": "Maison Möllerus Handbag, Orange Leather",
