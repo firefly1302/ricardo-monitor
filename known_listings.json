@@ -24,12 +24,6 @@
       "buy_now": "30.00",
       "url": "https://www.ricardo.ch/de/a/the-kooples-paris-wool-coat-size-m-1311831396/"
     },
-    "1311830814": {
-      "title": "Ever men's leather jacket size S - Stylish look!",
-      "price": "10.00",
-      "buy_now": "16.00",
-      "url": "https://www.ricardo.ch/de/a/ever-men's-leather-jacket-size-s-stylish-look!-1311830814/"
-    },
     "1311667158": {
       "title": "King Louie retro print dress, Size S, Autumn Fashion!",
       "price": "11.00",
@@ -47,12 +41,6 @@
       "price": "11.00",
       "buy_now": "15.00",
       "url": "https://www.ricardo.ch/de/a/saint-james-shirt-xs-cotton-floral-print-spring!-1311666946/"
-    },
-    "1311666790": {
-      "title": "Peserico Designer Dress, size S, classy & elegant look",
-      "price": "14.00",
-      "buy_now": "21.00",
-      "url": "https://www.ricardo.ch/de/a/peserico-designer-dress-size-s-classy-elegant-look-1311666790/"
     },
     "1311297894": {
       "title": "Massimo Dutti Wool Blend Knit Jumper - Size S",
@@ -95,6 +83,18 @@
       "price": "11.00",
       "buy_now": "15.00",
       "url": "https://www.ricardo.ch/de/a/nile-atelier-orange-cotton-jumper-size-m-1311831586/"
+    },
+    "1311831588": {
+      "title": "Coccinelle Backpack, Beige Leather, Small size, Spring",
+      "price": "10.00",
+      "buy_now": "16.00",
+      "url": "https://www.ricardo.ch/de/a/coccinelle-backpack-beige-leather-small-size-spring-1311831588/"
+    },
+    "1311831336": {
+      "title": "Escales Paris Shirt - Linen - Size XL - Excellent Condition",
+      "price": "10.00",
+      "buy_now": "15.00",
+      "url": "https://www.ricardo.ch/de/a/escales-paris-shirt-linen-size-xl-excellent-condition-1311831336/"
     }
   }
 }
