@@ -1,17 +1,5 @@
 {
   "listings": {
-    "1310004052": {
-      "title": "René Lezard Black Wool Coat, Size 44, Winter Essential!",
-      "price": "7.00",
-      "buy_now": "16.00",
-      "url": "https://www.ricardo.ch/de/a/rene-lezard-black-wool-coat-size-44-winter-essential!-1310004052/"
-    },
-    "1310004218": {
-      "title": "Ralph Lauren Cotton Jumper, Blue, V Neck, Men's Size L",
-      "price": "11.00",
-      "buy_now": "15.00",
-      "url": "https://www.ricardo.ch/de/a/ralph-lauren-cotton-jumper-blue-v-neck-men's-size-l-1310004218/"
-    },
     "1311582864": {
       "title": "Annette Görtz Linen Blend Dress, Size 36, Spring Style!",
       "price": "11.00",
@@ -95,6 +83,18 @@
       "price": "10.00",
       "buy_now": "15.00",
       "url": "https://www.ricardo.ch/de/a/escales-paris-shirt-linen-size-xl-excellent-condition-1311831336/"
+    },
+    "1311831148": {
+      "title": "Selection Stylish brown leather jacket, M",
+      "price": "10.00",
+      "buy_now": "20.00",
+      "url": "https://www.ricardo.ch/de/a/selection-stylish-brown-leather-jacket-m-1311831148/"
+    },
+    "1311831552": {
+      "title": "Repeat Cashmere blend Cardigan - Ladies Size 42",
+      "price": "10.00",
+      "buy_now": "20.00",
+      "url": "https://www.ricardo.ch/de/a/repeat-cashmere-blend-cardigan-ladies-size-42-1311831552/"
     }
   }
 }
