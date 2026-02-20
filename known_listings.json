@@ -1,5 +1,11 @@
 {
   "listings": {
+    "1309376786": {
+      "title": "Uniqlo Down Jacket - Size L - Great for Autumn!",
+      "price": "11.00",
+      "buy_now": "16.00",
+      "url": "https://www.ricardo.ch/de/a/uniqlo-down-jacket-size-l-great-for-autumn!-1309376786/"
+    },
     "1311582864": {
       "title": "Annette Görtz Linen Blend Dress, Size 36, Spring Style!",
       "price": "11.00",
@@ -11,12 +17,6 @@
       "price": "10.00",
       "buy_now": "20.00",
       "url": "https://www.ricardo.ch/de/a/vintage-nabholz-ski-suit-overall-jumpsuit-size-m-1311924224/"
-    },
-    "1311831396": {
-      "title": "The Kooples Paris Wool Coat, Size M",
-      "price": "10.00",
-      "buy_now": "30.00",
-      "url": "https://www.ricardo.ch/de/a/the-kooples-paris-wool-coat-size-m-1311831396/"
     },
     "1311923756": {
       "title": "Rare Vintage Signed SC Bern Ice Hockey Jersey, XL Blacky",
@@ -54,12 +54,6 @@
       "buy_now": "16.00",
       "url": "https://www.ricardo.ch/de/a/massimo-dutti-wool-blend-knit-jumper-size-s-1311297894/"
     },
-    "1311831344": {
-      "title": "Dunderdon Jacket size L, black with checkered lining.",
-      "price": "10.00",
-      "buy_now": "16.00",
-      "url": "https://www.ricardo.ch/de/a/dunderdon-jacket-size-l-black-with-checkered-lining-1311831344/"
-    },
     "1311924226": {
       "title": "Lacoste backpack, blue/green, vintage",
       "price": "10.00",
@@ -95,6 +89,12 @@
       "price": "11.00",
       "buy_now": "16.00",
       "url": "https://www.ricardo.ch/de/a/123-cashmere-blend-turtleneck-sweater-size-42-44-eu-1310951560/"
+    },
+    "1311923712": {
+      "title": "Manor Bio Cashmere Jumper, Size XS, Navy Blue, V Neck",
+      "price": "11.00",
+      "buy_now": "16.50",
+      "url": "https://www.ricardo.ch/de/a/manor-bio-cashmere-jumper-size-xs-navy-blue-v-neck-1311923712/"
     }
   }
 }
