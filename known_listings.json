@@ -60,12 +60,6 @@
       "buy_now": "16.00",
       "url": "https://www.ricardo.ch/de/a/123-cashmere-blend-turtleneck-sweater-size-42-44-eu-1310951560/"
     },
-    "1311582834": {
-      "title": "Maison Möllerus Handbag, Orange Leather",
-      "price": "32.00",
-      "buy_now": "70.00",
-      "url": "https://www.ricardo.ch/de/a/maison-moellerus-handbag-orange-leather-1311582834/"
-    },
     "1311831586": {
       "title": "Nile Atelier Orange Cotton Jumper, Size M",
       "price": "11.00",
@@ -95,6 +89,12 @@
       "price": "10.00",
       "buy_now": "20.00",
       "url": "https://www.ricardo.ch/de/a/repeat-cashmere-blend-cardigan-ladies-size-42-1311831552/"
+    },
+    "1311831558": {
+      "title": "Helmut Lang Black Wool & Silk Blazer - Size 40",
+      "price": "16.00",
+      "buy_now": "30.00",
+      "url": "https://www.ricardo.ch/de/a/helmut-lang-black-wool-silk-blazer-size-40-1311831558/"
     }
   }
 }
