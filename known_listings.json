@@ -1,11 +1,5 @@
 {
   "listings": {
-    "1311583338": {
-      "title": "DEVERNOIS Silk Dress, Size L",
-      "price": "14.00",
-      "buy_now": "15.00",
-      "url": "https://www.ricardo.ch/de/a/devernois-silk-dress-size-l-1311583338/"
-    },
     "1311582864": {
       "title": "Annette Görtz Linen Blend Dress, Size 36, Spring Style!",
       "price": "12.00",
@@ -74,7 +68,7 @@
     },
     "1310951560": {
       "title": "123 Cashmere Blend Turtleneck Sweater, Size 42-44 EU",
-      "price": "11.00",
+      "price": "12.00",
       "buy_now": "16.00",
       "url": "https://www.ricardo.ch/de/a/123-cashmere-blend-turtleneck-sweater-size-42-44-eu-1310951560/"
     },
@@ -95,6 +89,12 @@
       "price": "11.00",
       "buy_now": "16.00",
       "url": "https://www.ricardo.ch/de/a/footjoy-lambswool-jumper-mens-medium-great-condition!-1311374016/"
+    },
+    "1311297692": {
+      "title": "Canada Goose Winter Jacket - Black, Size M - Used",
+      "price": "16.00",
+      "buy_now": "60.00",
+      "url": "https://www.ricardo.ch/de/a/canada-goose-winter-jacket-black-size-m-used-1311297692/"
     }
   }
 }
