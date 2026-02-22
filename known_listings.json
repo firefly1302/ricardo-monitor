@@ -60,12 +60,6 @@
       "buy_now": "40.00",
       "url": "https://www.ricardo.ch/de/a/gerard-darel-wool-coat-size-38-stylish-belted-winter-coat!-1311667180/"
     },
-    "1311582888": {
-      "title": "Lacoste summer dress, size 36, white",
-      "price": "11.00",
-      "buy_now": "15.00",
-      "url": "https://www.ricardo.ch/de/a/lacoste-summer-dress-size-36-white-1311582888/"
-    },
     "1311582570": {
       "title": "Nike Jacket L Red/Black Colourblock Vintage",
       "price": "11.00",
@@ -95,6 +89,12 @@
       "price": "11.00",
       "buy_now": "16.00",
       "url": "https://www.ricardo.ch/de/a/uniqlo-puffertech-jacket-xl-stylish-and-lightweight!-1311297888/"
+    },
+    "1311583338": {
+      "title": "DEVERNOIS Silk Dress, Size L",
+      "price": "10.00",
+      "buy_now": "15.00",
+      "url": "https://www.ricardo.ch/de/a/devernois-silk-dress-size-l-1311583338/"
     }
   }
 }
