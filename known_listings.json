@@ -1,5 +1,11 @@
 {
   "listings": {
+    "1311583338": {
+      "title": "DEVERNOIS Silk Dress, Size L",
+      "price": "11.00",
+      "buy_now": "15.00",
+      "url": "https://www.ricardo.ch/de/a/devernois-silk-dress-size-l-1311583338/"
+    },
     "1311582864": {
       "title": "Annette Görtz Linen Blend Dress, Size 36, Spring Style!",
       "price": "12.00",
@@ -11,6 +17,12 @@
       "price": "7.00",
       "buy_now": "10.00",
       "url": "https://www.ricardo.ch/de/a/vintage-hugo-boss-floral-silk-tie-1310322212/"
+    },
+    "1310321940": {
+      "title": "Lancel Paris Silk Tie - Elegant Chain Pattern - Perfect Gift",
+      "price": "7.00",
+      "buy_now": "10.00",
+      "url": "https://www.ricardo.ch/de/a/lancel-paris-silk-tie-elegant-chain-pattern-perfect-gift-1310321940/"
     },
     "1311667158": {
       "title": "King Louie retro print dress, Size S, Autumn Fashion!",
@@ -83,18 +95,6 @@
       "price": "16.00",
       "buy_now": "60.00",
       "url": "https://www.ricardo.ch/de/a/canada-goose-winter-jacket-black-size-m-used-1311297692/"
-    },
-    "1311582880": {
-      "title": "Fabiana Filippi Wool Cashmere Herringbone Jacket L",
-      "price": "58.00",
-      "buy_now": "",
-      "url": "https://www.ricardo.ch/de/a/fabiana-filippi-wool-cashmere-herringbone-jacket-l-1311582880/"
-    },
-    "1311297888": {
-      "title": "Uniqlo Puffertech Jacket, XL - Stylish and Lightweight!",
-      "price": "11.00",
-      "buy_now": "16.00",
-      "url": "https://www.ricardo.ch/de/a/uniqlo-puffertech-jacket-xl-stylish-and-lightweight!-1311297888/"
     }
   }
 }
